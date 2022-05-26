@@ -3,9 +3,11 @@
 ### Hi, there, I'm Melike :wave:
 
 ## Frontend | React DEVELOPER  :nerd_face:
-<p>
+<p align="left" >
 <font color="pink" font-weight="bold" size="2px"> I'm 25 years old I really love watch drama. And I can drink coffee :coffee: all the time. I like coffee the most when coding.  `<code>&lt; code /&gt;</code>`</font> 
 </p>
+<img width="300px" align="right" height="" src="https://media.giphy.com/media/giKklFontfveZrNXjz/giphy.gif">
+
 <br>
 <br>
 <font style="font-weight:bold"> TO CONTACT ME: </font> :envelope: melikeozlen@gmail.com</font>
