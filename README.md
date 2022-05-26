@@ -3,8 +3,9 @@
 ### Hi, there, I'm Melike :wave:
 
 ## Frontend | React DEVELOPER  :nerd_face:
-
+<p>
 <font color="pink" font-weight="bold" size="2px" style="italic"> I'm 25 years old I really love watch drama. And I can drink coffee all the time. I like coffee the most when coding.  `</react>`</font> :coffee:
+</p>
 <br>
 <br>
 <font style="font-weight:bold"> TO CONTACT ME: </font> :envelope: melikeozlen@gmail.com</font>
