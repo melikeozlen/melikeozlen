@@ -30,14 +30,6 @@
 <br>
 
 ###  Don't forget to check out my Github projects :v:
-<br>
-<br>
-<details>
-<summary>
-:bulb: Github Stats -
-<img src="https://github-readme-stats.vercel.app/api?username=melikeozlen&theme=dracula">
-</summary>
-</details>
 
 <details>
 <summary>
