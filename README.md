@@ -32,12 +32,9 @@
 
 ###  Don't forget to check out my Github projects :v:
 
-<details>
-<summary>
 :bulb: Most Used Languages 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikeozlen&theme=dracula&layout=compact">
-</summary>
-</details>
+
 
 
 
