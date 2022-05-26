@@ -6,10 +6,12 @@
 <p align="left" >
 <font color="pink" font-weight="bold" size="2px"> I'm 25 years old. I really love watch drama. And I can drink coffee :coffee: all the time. But I like coffee the most when coding.  `<code>&lt; code /&gt;</code>`</font> 
 </p>
+
 <br>
 
 
-***TO CONTACT ME:*** :envelope: melikeozlen@gmail.com</font>
+***TO CONTACT ME:*** :envelope: melikeozlen@gmail.com</font>  
+Don't forget to give a star :star2:  
 
 
 
