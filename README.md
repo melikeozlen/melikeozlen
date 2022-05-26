@@ -33,7 +33,7 @@
 <img height="25" width="25" alt="bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> &nbsp;
 <img height="25" width="25" alt="express js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"> &nbsp;
 <img height="25" width="25" alt="mongo db" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
-<font color="pink"> and more.. </font>
+<font color="pink"> &nbsp;<img height="25" width="25" alt="express js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png"> &nbsp;&nbsp; and more.. </font>
 </p>
 <br>
 
