@@ -1,4 +1,4 @@
-### Hi, there, I'm Melike :wave:
+### Hi there, I'm Melike :wave:
 <img width="300px" align="right" height="" src="https://media.giphy.com/media/giKklFontfveZrNXjz/giphy.gif">
 
 
