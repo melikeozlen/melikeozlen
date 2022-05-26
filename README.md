@@ -32,7 +32,7 @@
 <img height="25" width="25" style="display:inline-block;" alt="node js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> &nbsp;
 <img height="25" width="25" alt="bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"> &nbsp;
 <img height="25" width="25" alt="express js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"> &nbsp;
-<img height="25" width="25" alt="mongo db" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+<img height="25" width="25" alt="mongo db" src="http://assets.stickpng.com/images/58481021cef1014c0b5e494b.png">
 <font color="pink"> &nbsp;<img height="25" width="25" alt="express js" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67"> &nbsp;&nbsp; and more.. </font>
 </p>
 <br>
