@@ -9,7 +9,7 @@
 
 <br>
 <br>
-<font style="font-weight:bold"> TO CONTACT ME: </font> :envelope: melikeozlen@gmail.com</font>
+***TO CONTACT ME:*** :envelope: melikeozlen@gmail.com</font>
 
 
 
