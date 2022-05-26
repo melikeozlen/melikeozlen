@@ -32,7 +32,7 @@
 
 ###  Don't forget to check out my Github projects :v:
 
-:bulb: Most Used Languages 
+:bulb: Most Used Languages <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikeozlen&theme=dracula&layout=compact">
 
 
