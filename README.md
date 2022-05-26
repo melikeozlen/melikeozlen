@@ -1,5 +1,5 @@
 ### Hi there, I'm Melike :wave:
-<img width="300px" align="right" height="" src="https://media.giphy.com/media/giKklFontfveZrNXjz/giphy.gif">
+<img width="500px" align="right" height="" src="https://media.giphy.com/media/giKklFontfveZrNXjz/giphy.gif">
 
 
 ## Frontend | React DEVELOPER  :nerd_face:
