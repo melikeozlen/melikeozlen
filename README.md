@@ -11,11 +11,10 @@
 
 
 ***TO CONTACT ME:*** :envelope: melikeozlen@gmail.com</font>  
-Don't forget to give a star :star2:  
 
 
 
-## What I Use ?
+## What I Use ? 
 
 <p>
 <img height="25" width="25" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
@@ -39,7 +38,7 @@ Don't forget to give a star :star2:
 <br>
 
 
-###  Don't forget to check out my Github projects :v:
+###  Don't forget to check out my Github projects :v: 
 
 :bulb: Most Used Languages <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melikeozlen&theme=dracula&layout=compact">
